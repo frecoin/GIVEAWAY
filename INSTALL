@@ -1,0 +1,9 @@
+Building FreeCoin
+
+See doc/readme-qt.rst for instructions on building FreeCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FreeCoin.
+
+See doc/build-*.txt for instructions on building FreeCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FreeCoin.
